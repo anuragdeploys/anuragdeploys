@@ -1,74 +1,134 @@
-# Hi, I'm Anurag 👋
 
-### DevOps & Cloud Learner
+<p align="center">
+  <img src="./assets/devops-banner.png" alt="Anurag Deploys - DevOps Cloud Automation SRE" width="100%">
+</p>
 
-I am building hands-on DevOps projects to understand how
-software moves from source code to deployment, monitoring,
-and reliable infrastructure.
+<h1 align="center">Hi, I'm Anurag 👋</h1>
 
-I prefer learning by building and documenting the engineering
-decisions behind each project.
+<h3 align="center">DevOps & Cloud Learner</h3>
+
+<p align="center">
+  Building hands-on projects around automation, deployments,
+  containers, cloud infrastructure and reliability.
+</p>
 
 ---
 
-## 🛠️ What I'm Working With
+## 👨‍💻 About Me
 
-- Linux
+I'm building my DevOps and Cloud engineering skills through
+hands-on projects and practical experimentation.
+
+I prefer learning by building real systems, understanding
+how the components work together, and documenting the
+engineering decisions behind them.
+
+My current focus is on:
+
+- Linux & system administration
 - Git & GitHub
 - Python
-- Docker
-- Flask
-- REST APIs
+- Docker & containerization
 - CI/CD
 - AWS
-- Monitoring & Observability
-- Infrastructure & Automation
+- Automation
+- Monitoring & observability
+- Reliability and deployment workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-### DevOps Release Orchestrator
+### 🔧 DevOps Release Orchestrator
 
 A DevOps platform for repository management, release
 versioning, automated deployments, health monitoring,
-rollback and deployment history.
+automatic rollback and deployment history.
 
-**Python • Flask • Docker • Git • SQLite**
+**Tech:** Python • Flask • Docker • Git • SQLite
 
-[View Project]
+🔗 [View Project](https://github.com/anuragdeploys/Devops-Release-Orchestrator)
 
 ---
 
-### Cloud Cost Optimization Dashboard
+### ☁️ Cloud Cost Optimization Dashboard
 
-A cloud cost monitoring and analysis platform designed
-to help understand infrastructure usage and spending.
+A cloud cost monitoring and analysis platform built to
+collect, process and visualize infrastructure cost data.
 
-**Python • Flask • SQLite • Docker • GitHub Actions**
+**Tech:** Python • Flask • SQLite • Docker • GitHub Actions
 
-[View Project]
+🔗 [View Project](https://github.com/anuragdeploys/cloud-cost-optimization-dashboard)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+- Python
+- Bash
+
+### DevOps & Infrastructure
+- Linux
+- Docker
+- Git
+- GitHub Actions
+- AWS
+- CI/CD
+
+### Development
+- Flask
+- REST APIs
+- SQLite
+- SQLAlchemy
+
+### Reliability & Operations
+- Monitoring
+- Health Checks
+- Deployment Automation
+- Rollback Strategies
+- Troubleshooting
 
 ---
 
 ## 📚 Currently Learning
 
-- Linux & system administration
+I'm continuously improving my practical knowledge of:
+
+- AWS infrastructure
 - CI/CD pipelines
-- AWS
-- Docker & containerization
-- Monitoring & observability
+- Containerization
 - Infrastructure automation
+- Monitoring & observability
+- System administration
+- DevSecOps
+- Site Reliability Engineering
 
 ---
 
-## 🎯 Goal
+## 🎯 My Goal
 
-Build strong practical DevOps fundamentals through
-real projects and continuous hands-on learning.
+To build strong practical DevOps fundamentals by designing,
+building, breaking, troubleshooting and improving real systems.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Activity
 
-GitHub: @anuragdeploys
+I use GitHub to document my learning, projects,
+experiments and continuous improvement.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people working
+in DevOps, Cloud, SRE and infrastructure engineering.
+
+📧 Open to learning, collaboration and opportunities.
+
+---
+
+<p align="center">
+  <i>Build. Automate. Monitor. Improve.</i>
+</p>
